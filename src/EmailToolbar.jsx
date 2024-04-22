@@ -1,3 +1,4 @@
+import './styles/EmailToolbar.css'
 import { BackArrow } from './BackArrow'
 import { DownloadButton } from './DownloadButton'
 import { RubbishButton } from './RubbishButton'

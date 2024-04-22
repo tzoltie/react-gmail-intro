@@ -1,3 +1,5 @@
+import './styles/Header.css'
+
 import { HeaderLeftMenu } from "./HeaderLeftMenu";
 import { Searchbar } from "./Searchbar";
 

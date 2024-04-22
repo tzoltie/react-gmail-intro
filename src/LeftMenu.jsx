@@ -1,3 +1,4 @@
+import './styles/LeftMenu.css'
 import { InboxList } from "./InboxList";
 
 export function LeftMenu() {
